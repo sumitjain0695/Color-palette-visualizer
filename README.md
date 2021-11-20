@@ -1,2 +1,3 @@
 # Color-palette-visualizer
-To visualize hexcode array of colors
+
+Visualize hexcode array of colors
